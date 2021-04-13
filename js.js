@@ -1,9 +1,9 @@
 //Edit password Variable To Change The Password
-const password = "HelloWorld";
+const password = "lockdown";
 
 //Give website's link in this variable
 
-const websiteLink = "https://youtube.com";
+const websiteLink = "https://sites.google.com/view/hsc22p2/home";
 
 //Confidential----Don't Change Anything or Responses will not be Recorded
 
